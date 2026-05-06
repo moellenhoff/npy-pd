@@ -10,7 +10,7 @@ This repository currently includes:
 ## Requirements
 
 - Pure Data
-- [pdlua](https://agraef.github.io/purr-data/introduction/pd-lua-intro.html)
+- [pdlua](https://agraef.github.io/pd-lua/tutorial/pd-lua-intro.html)
 
 No other external libraries are required by the Lua objects themselves.
 
