@@ -2,7 +2,7 @@
 
 Pure Data objects for loading NumPy arrays and writing lists into Pd arrays.
 
-![npy help patch](npy.png)
+<img src="npy.png" alt="npy help patch" width="480">
 
 This repository currently includes:
 
