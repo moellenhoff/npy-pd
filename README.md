@@ -2,6 +2,8 @@
 
 Pure Data objects for loading NumPy arrays and writing lists into Pd arrays.
 
+![npy help patch](npy.png)
+
 This repository currently includes:
 
 - `npy.pd_lua`: load `.npy` files and access their contents in Pure Data
