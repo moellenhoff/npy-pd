@@ -1,5 +1,6 @@
 #N canvas 225 82 497 561 12;
 #X declare -lib pdlua;
+#X declare -path npy-pd;
 #X obj 35 31 declare -lib pdlua;
 #X obj 36 376 npy;
 #X msg 40 162 open \$1;
@@ -20,6 +21,7 @@
 #X text 182 277 output value at column \, row;
 #X text 261 312 scale output to min...max;
 #X text 189 347 output metadata;
+#X obj 35 61 declare -path npy-pd;
 #X connect 1 0 13 0;
 #X connect 1 1 12 0;
 #X connect 2 0 1 0;
